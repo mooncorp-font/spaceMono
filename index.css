@@ -44,7 +44,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	src: url('SpaceMono-Bold.woff2') format('woff2');
     src: url('SpaceMono-Bold.ttf') format("truetype");
-	unicode-range: U+0041-005A, U+0061-007A;
+	unicode-range: U+0041-005A, U+0061-007A, U+00C0-00FF;
 }
 
 @font-face {
@@ -53,7 +53,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	src: url('SpaceMono-Regular.woff2') format('woff2');
     src: url('SpaceMono-Regular.ttf') format("truetype");
-	unicode-range: U+0041-005A, U+0061-007A;
+	unicode-range: U+0041-005A, U+0061-007A, U+00C0-00FF;
 }
 
 @font-face {
@@ -62,7 +62,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	src: url('SpaceMono-Regular.woff2') format('woff2');
     src: url('SpaceMono-Regular.ttf') format("truetype");
-	unicode-range: U+0041-005A, U+0061-007A;
+	unicode-range: U+0041-005A, U+0061-007A, U+00C0-00FF;
 }
 
 @font-face {
@@ -71,7 +71,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	src: url('SpaceMono-Regular.woff2') format('woff2');
     src: url('SpaceMono-Regular.ttf') format("truetype");
-	unicode-range: U+0041-005A, U+0061-007A;
+	unicode-range: U+0041-005A, U+0061-007A, U+00C0-00FF;
 }
 
 /***************** 숫자 *****************/
